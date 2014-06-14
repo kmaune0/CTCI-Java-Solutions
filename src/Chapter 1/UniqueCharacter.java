@@ -1,7 +1,7 @@
 // UniqueCharacter.java
 // (C) 2014 kmaune0
 // Implement an algorithm to determine if a string has all unique
-// characters.
+// characters. Problem 1.1
 
 import java.util.HashSet;
 
